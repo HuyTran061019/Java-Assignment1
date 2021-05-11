@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Practice04Application {
-
+	//hello
 	public static void main(String[] args) {
 		SpringApplication.run(Practice04Application.class, args);
 	}
